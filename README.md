@@ -1,0 +1,2 @@
+# A-Systematic-Review-of-Encryption-and-Keylogging-for-Computer-System-Security
+Encryption encrypts data so that the one with a password or encryption key may access it. Encryption protects data content rather than preventing unlawful data transmission interception or access. Intelligence and security organizations utilize it, as well as personal security software that protects user data. Advanced Encryption Standard (AES) .
